@@ -1,9 +1,4 @@
-<img width="1080" height="2400" alt="Screenshot_20260718_022834" src="https://github.com/user-attachments/assets/f414dc26-9ccc-4e65-a7a3-84fee00c9315" />
-<img width="1080" height="2400" alt="Screenshot_20260718_022824" src="https://github.com/user-attachments/assets/66a44b3f-c741-4146-aa1d-9d612e7e8bd4" />
-<img width="1080" height="2400" alt="Screenshot_20260718_022722" src="https://github.com/user-attachments/assets/9117dfc0-88a0-4d19-8c71-51f1f0e5c62c" />
-<img width="1080" height="2400" alt="Screenshot_20260718_022659" src="https://github.com/user-attachments/assets/7dfedaed-cc6d-4c25-b9f2-4df4e3e2b1aa" />
-<img width="1080" height="2400" alt="Screenshot_20260718_022636" src="https://github.com/user-attachments/assets/0d453e54-e6ee-4a40-88cb-863a87660c01" />
-<img width="1080" height="2400" alt="Screenshot_20260718_022844" src="https://github.com/user-attachments/assets/4d271801-c448-4731-b241-60134702c26a" />
+
 # 📚 Bookly — Flutter Book Store App
 
 A modern, premium-looking Flutter mobile app for browsing and ordering books, built with **Riverpod**, **Dio**, and **go_router**. Connects to the [Bookly REST API](https://github.com/AbdelrhmanSamy1/bookly-rest).
@@ -22,7 +17,19 @@ A modern, premium-looking Flutter mobile app for browsing and ordering books, bu
 | **Dark Theme** | Premium dark UI with gradients, glassmorphism, and micro-animations |
 
 ## 📱 Screenshots
+## 📱 Screenshots
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7dfedaed-cc6d-4c25-b9f2-4df4e3e2b1aa" width="220"/>
+  <img src="https://github.com/user-attachments/assets/0d453e54-e6ee-4a40-88cb-863a87660c01" width="220"/>
+  <img src="https://github.com/user-attachments/assets/9117dfc0-88a0-4d19-8c71-51f1f0e5c62c" width="220"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/66a44b3f-c741-4146-aa1d-9d612e7e8bd4" width="220"/>
+  <img src="https://github.com/user-attachments/assets/f414dc26-9ccc-4e65-a7a3-84fee00c9315" width="220"/>
+  <img src="https://github.com/user-attachments/assets/4d271801-c448-4731-b241-60134702c26a" width="220"/>
+</p>
 > Run the app to experience the full UI — deep navy theme with teal accents, gradient book covers, and smooth transitions.
 
 ## 🛠️ Tech Stack
