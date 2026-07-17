@@ -90,7 +90,7 @@ lib/
 
 ```bash
 # Clone
-git clone https://github.com/AbdelrhmanSamy1/bookly-app.git
+git clone https://github.com/AbdelrhmanSamy1/bookly.git
 cd bookly-app
 
 # Install dependencies
